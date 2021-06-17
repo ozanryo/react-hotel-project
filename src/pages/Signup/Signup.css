@@ -1,0 +1,36 @@
+/** Row Filter */
+
+.row-input {
+    margin-bottom: 15px;
+    display: flex;
+    margin-left: 60px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+span.label {
+    display: inline-block;
+    width: 150px;
+    margin-right: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.row-input input{
+    margin-left: 50px;
+    border-radius: 10px;
+    height: 50px;
+}
+
+.row-button {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row-button > input:first-child {
+    margin-right: 10px;
+}
