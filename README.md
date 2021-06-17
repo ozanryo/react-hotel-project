@@ -1,9 +1,6 @@
 # PROJECT HOTEL G2ACADEMY
 
 
-Sebelumnya maaf mas, saya tidak mengumpulkan via github, gak tau kenapa
-karena tidak bisa git remote add origin, gak bisa git add ., gak bisa upload via github
-juga mas, gak tau kenapa....
 
 ### Pembagian tugas
 |Nama Siswa|Pembagian Tugas|
